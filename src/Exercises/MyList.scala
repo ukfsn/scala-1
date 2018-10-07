@@ -1,6 +1,5 @@
 package Exercises
 
-import sun.invoke.empty.Empty
 
 abstract class MyList[+A] {
 
